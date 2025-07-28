@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Lunch Ideas.pdf",
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "IT Training Specialist",
+        "job_to_be_done": "Design comprehensive Adobe Acrobat training curriculum covering document creation, editing, sharing, e-signatures, and advanced features like generative AI for corporate users.",
+        "processing_timestamp": "2025-07-28T13:20:50.132084"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "To start using a generative AI tool, select the respective call-to- action",
+            "importance_rank": 1,
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "What ’s the best way to create a PDF",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Convert a file to PDF using Acrobat menu commands 1",
+            "importance_rank": 3,
+            "page_number": 7
+        },
+        {
+            "document": "Test Your Acrobat Exporting Skills.pdf",
+            "section_title": "Yes or No: Can you export a PDF to XML format using Acrobat",
+            "importance_rank": 4,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Types of PDF forms",
+            "importance_rank": 5,
+            "page_number": 2
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "Select multiple files The Generative AI tools also appear one at a time next to the Recommended tools for you section of Acrobat Home. To start using a generative AI tool, select the respective call - to - action. Acrobat desktop In Acrobat online, the generative AI tools appear one at a time in the Explore what's new section of Acrobat Home. To start using a generative AI tool, select a file and then select the generative AI tool. Acrobat online Alternatively, in Acrobat Home, select All tools, then select AI Assistant or Generative summary tool.",
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® files, digital images, and more. Different types of sources have different tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in the Print dialog box. If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft Excel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is already open, you don ’t have to open the authoring application to convert a file to PDF. Every PDF balances efficiency (small file size) and quality (such as resolution and color).",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Convert a file to PDF using Acrobat menu commands 1. Do any of the following: In Acrobat, select Create from the global toolbar. The Create a PDF tool opens. On the left rail, Single file is selected by default. Choose the Select a file button.",
+            "page_number": 7
+        },
+        {
+            "document": "Test Your Acrobat Exporting Skills.pdf",
+            "refined_text": "Yes or No: Can you export a PDF to XML format using Acrobat? 17. True or False: You can use the Snapshot tool to copy selected content as an image. 18. Scenario: You're a web developer who needs to export a PDF to HTML for your website. Do you use the \"Convert to HTML",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Types of PDF forms Interactive forms: These contain fields that you can select and fill in. Flat forms: These do not have interactive fields. It could be a paper form or PDF that hasn’t been optimized for form filling. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage. Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select E - Sign from the global bar. Alternatively, you can select All tools > Fill & Sign.",
+            "page_number": 2
+        }
+    ]
+}

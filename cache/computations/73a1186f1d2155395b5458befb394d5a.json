@@ -1,0 +1,212 @@
+{
+  "result": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "title": "Smoothie Bowl",
+      "text": "\u2022 1/2 teaspoon ground cinnamon \u2022 1 tablespoon butter Instructions: \u2022 In a shallow dish, whisk together eggs, milk, vanilla extract, and cinnamon. \u2022 Dip each slice of bread into the egg mixture, coating both sides. \u2022 Heat a non -stick skillet over medium heat and melt the butter. \u2022 Cook the bread slices until golden brown on both sides. \u2022 Serve with syrup and powdere d sugar. Smoothie Bowl Ingredients: \u2022 1 banana \u2022 1/2 cup frozen berries \u2022 1/2 cup Greek yogurt \u2022 1/4 cup milk \u2022 Toppings: granola, fresh fruit, nuts, seeds Instructions: \u2022 In a blender, combine banana, frozen berries, Greek yogurt, and milk. \u2022 Blend until smooth. \u2022 Pour into a bowl and top with granola, fresh fruit, nuts, and seeds. Avocado Toast Ingredients: \u2022 2 slices of bread \u2022 1 ripe avocado \u2022 Salt and pepper to taste \u2022 Optional toppings: cherry tomatoes, red pepper flakes, poached egg Instructions: \u2022 Toast the bread s lices. \u2022 Mash the avocado in a bowl and season with salt and pepper. \u2022 Spread the mashed avocado on the toast. \u2022 Add optional toppings if desired. Breakfast Burrito Ingredients: \u2022 2 large eggs \u2022 1/4 cup shredded cheese",
+      "page_number": 3,
+      "confidence_score": 0.5616865183550905,
+      "quality_score": 0.0032500000000000007,
+      "final_score": 0.5302209308714481,
+      "content_type": "general",
+      "word_count": 200,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.32500000000000007,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.30000000000000004,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 56.16865183550905,
+        "semantic_similarity": 0.5616865183550905,
+        "quality_score": 0.0032500000000000007
+      },
+      "adjusted_score": 0.5302209308714481
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "title": "Beef Bourguignon",
+      "text": "\u2022 8 ounces rice noodles \u2022 1/2 pound shrimp or chicken \u2022 2 eggs \u2022 1 cup bean sprouts \u2022 1/4 cup peanuts, chopped \u2022 2 tablespoons fish sauce \u2022 2 tablespoons tamarind paste \u2022 1 tablespoon sugar \u2022 1 tablespoon lime juice \u2022 1/4 cup green onions, chopped \u2022 2 tablespoons vegetable oil Instructions: \u2022 Soak rice noodles in warm water until softened, then drain. \u2022 Saut\u00e9 shrimp or chicken in vegetable oil until cooked, then set aside. \u2022 Scramble eggs in the same pan. \u2022 Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \u2022 Add bean sprouts, cooked shrim p or chicken, and chopped green onions. \u2022 Garnish with chopped peanuts and serve. Beef Bourguignon Ingredients: \u2022 2 pounds beef chuck, cut into cubes \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 1 cup red wine \u2022 2 cups beef broth \u2022 1 cup mushrooms, sliced \u2022 1 cup carrots, sliced \u2022 1 cup pearl onions \u2022 2 tablespoons tomato paste \u2022 2 tablespoons flour \u2022 2 tablespoons butter \u2022 1 teaspoon thyme \u2022 1 bay leaf \u2022 Salt and pepper to taste Instructions: \u2022 Preheat oven to 350\u00b0F (175\u00b0C). \u2022 In a large pot, melt butter over medium heat. \u2022 Add d iced onion and minced garlic, saut\u00e9 until translucent. \u2022 Add beef cubes and cook until browned on all sides. \u2022 Sprinkle flour over the beef and stir to combine. \u2022 Add red wine, beef broth, tomato paste, thyme, and bay leaf.",
+      "page_number": 7,
+      "confidence_score": 0.5555550466153993,
+      "quality_score": 0.0030500000000000006,
+      "final_score": 0.5206795186461597,
+      "content_type": "general",
+      "word_count": 254,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.30500000000000005,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 55.555504661539935,
+        "semantic_similarity": 0.5555550466153993,
+        "quality_score": 0.0030500000000000006
+      },
+      "adjusted_score": 0.2206795186461597
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "title": "Veggie Sushi Rolls",
+      "text": "\u2022 1/4 cup red onion, finely chopped \u2022 2 tablespoons olive oil \u2022 1 tablespoon lemon juice \u2022 Salt and pepper to taste Instructions: \u2022 In a bowl, combine the tuna, avocado, tomatoes, and red onion. \u2022 Drizzle with olive oil and lemon juice. \u2022 Season with salt and pepper, then toss to combine. Veggie Sushi Rolls Ingredients: \u2022 1 cup cooked sushi rice \u2022 1/2 cucumber, julienned \u2022 1/2 avocado, sliced \u2022 1/4 cup carrot, julienned \u2022 2 sheets nori (seaweed) \u2022 Soy sauce for dipping Instructions: \u2022 Lay a sheet of nori on a bamboo sushi mat. \u2022 Spread a thin layer of sushi rice over the nori, leaving a 1 -inch border at the top. \u2022 Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. \u2022 Roll the nori tightly using the bamboo mat. \u2022 Slice into bite -sized pieces and serve with soy sauce. Spinach and Feta Stuffed Pita Ingredients: \u2022 1 whole wheat pita bread \u2022 1/2 cup spinach, chopped \u2022 1/4 cup feta cheese, crumbled \u2022 1/4 cup cherry tomatoes, halved \u2022 1 tablespoon olive oil \u2022 Salt and pepper to taste Instructions: \u2022 Cut the pita bread in half to create pockets. \u2022 In a bowl, combine the spinach, feta cheese, and cherry tomatoes. \u2022 Drizzle with olive oil and season with salt and pepper. \u2022 Stuff the mixture into the pita pockets.",
+      "page_number": 11,
+      "confidence_score": 0.5389487196404884,
+      "quality_score": 0.0031500000000000005,
+      "final_score": 0.5151108113856071,
+      "content_type": "general",
+      "word_count": 237,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31500000000000006,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 53.89487196404884,
+        "semantic_similarity": 0.5389487196404884,
+        "quality_score": 0.0031500000000000005
+      },
+      "adjusted_score": -0.08488918861439287
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "title": "Mushroom Risotto",
+      "text": "\u2022 Chopped parsley for garnish \u2022 Cooked couscous for serving Instructions: \u2022 In a large pot, heat olive oil over medium heat. \u2022 Brown chicken thighs on all sides, then set aside. \u2022 Saut\u00e9 onion and garlic until softened. \u2022 Stir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. \u2022 Return chicken to the pot, cover, and simmer for 45 minutes until tender. \u2022 Season with salt and pepper. \u2022 Garnish with parsley and serve over couscous. Mushroom Risotto Ingredients: \u2022 1 cup Arborio rice \u2022 4 cups chicken or vegetable broth \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 1 cup mushrooms, sliced \u2022 1/2 cup white wine \u2022 1/2 cup grated Parmesan cheese \u2022 2 tablespoons butter \u2022 2 tablespoons olive oil \u2022 Salt and pepper to taste \u2022 Chopped parsley for garnish Instructions: \u2022 Heat broth in a pot and keep warm. \u2022 In a large skillet, heat olive oil and 1 tablespoon butter over medium heat. \u2022 Saut\u00e9 onion, garlic, and mushrooms until tender. \u2022 Add rice and stir for 1 -2 minutes until lightly toast ed. \u2022 Pour in white wine and cook until absorbed. \u2022 Add warm broth, one ladle at a time, stirring until absorbed before adding more, until rice is creamy and tender (about 20 minutes). \u2022 Stir in remaining butter and Parmesan cheese, season with salt and pepper. \u2022 Garnish with parsley and serve. Pulled Pork Sandwiches Ingredients: \u2022 2 pounds pork shoulder \u2022 1 small onion, sliced \u2022 2 cloves garlic, minced",
+      "page_number": 7,
+      "confidence_score": 0.5413216790027111,
+      "quality_score": 0.0031000000000000003,
+      "final_score": 0.5149936716010844,
+      "content_type": "general",
+      "word_count": 259,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31000000000000005,
+        "specificity_score": 0.5,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.15000000000000002,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 54.132167900271114,
+        "semantic_similarity": 0.5413216790027111,
+        "quality_score": 0.0031000000000000003
+      },
+      "adjusted_score": -0.38500632839891546
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "title": "Luxurious Hotels",
+      "text": "Luxurious Hotels \u2022 Grand -H\u00f4tel du Cap -Ferrat, A Four Seasons Hotel (Saint -Jean -Cap-Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, offering elegant rooms, a spa, and a private beach. The exclusive sett ing and world -class amenities make it a top choice for luxury travelers. \u2022 H\u00f4tel de Paris Monte -Carlo (Monaco): A luxurious hotel located in the heart of Monaco, offering opulent rooms, a world -class spa, and several Michelin -starred restaurants. The histori c grandeur and exceptional service make it a premier destination. \u2022 Ch\u00e2teau Saint -Martin & Spa (Vence): A luxurious hotel set in a historic ch\u00e2teau, offering elegant rooms, a Michelin -starred restaurant, and a world- class spa. The tranquil setting and luxuri ous amenities make it a perfect getaway. \u2022 Airelles Ch\u00e2teau de la Messardi\u00e8re (Saint -Tropez): A luxurious hotel set in a historic ch\u00e2teau, offering elegant rooms, beautiful gardens, and stunning views of the Mediterranean. The refined ambiance and top -tier s ervices make it a standout choice for luxury accommodations. \u2022 H\u00f4tel du Cap -Eden -Roc (Antibes): A legendary hotel offering luxurious rooms, a private beach, and a world- class spa. The stunning location and impeccable service make it a favorite among celebrit ies and discerning travelers. \u2022 La R\u00e9serve Ramatuelle (Ramatuelle): A luxurious hotel offering elegant rooms, a spa, and breathtaking views of the Mediterranean. The serene setting and exceptional service make it a top choice for a relaxing retreat. \u2022 Villa La Coste (Le Puy -Sainte -R\u00e9parade): A luxurious hotel set in a vineyard, offering elegant rooms, a spa, and a Michelin -starred restaurant. The artistic ambiance and world -class amenities make it a unique and memorable stay. \u2022 H\u00f4tel Hermitage Monte -Carlo (Monaco ): A luxurious hotel offering opulent rooms, a world -class spa, and several fine dining options. The historic charm and exceptional service make it a premier destination in Monaco. \u2022 Le Byblos (Saint -Tropez): A luxurious hotel offering elegant rooms, a spa, and a vibrant nightlife scene. The glamorous setting and top -notch amenities make it a favorite among the jet set.",
+      "page_number": 12,
+      "confidence_score": 0.5059977947042879,
+      "quality_score": 0.0034850000000000003,
+      "final_score": 0.5069218678817151,
+      "content_type": "general",
+      "word_count": 350,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.34850000000000003,
+        "specificity_score": 0.47,
+        "informativeness_score": 0.27,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 50.599779470428786,
+        "semantic_similarity": 0.5059977947042879,
+        "quality_score": 0.0034850000000000003
+      },
+      "adjusted_score": -0.6930781321182848
+    }
+  ],
+  "computation_type": "section_selection",
+  "timestamp": "2025-07-28T13:18:30.737890"
+}

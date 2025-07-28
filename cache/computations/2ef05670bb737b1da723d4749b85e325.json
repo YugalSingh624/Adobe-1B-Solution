@@ -1,0 +1,218 @@
+{
+  "result": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "title": "Luxurious Hotels",
+      "text": "Luxurious Hotels \u2022 Grand -H\u00f4tel du Cap -Ferrat, A Four Seasons Hotel (Saint -Jean -Cap-Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, offering elegant rooms, a spa, and a private beach. The exclusive sett ing and world -class amenities make it a top choice for luxury travelers. \u2022 H\u00f4tel de Paris Monte -Carlo (Monaco): A luxurious hotel located in the heart of Monaco, offering opulent rooms, a world -class spa, and several Michelin -starred restaurants. The histori c grandeur and exceptional service make it a premier destination. \u2022 Ch\u00e2teau Saint -Martin & Spa (Vence): A luxurious hotel set in a historic ch\u00e2teau, offering elegant rooms, a Michelin -starred restaurant, and a world- class spa. The tranquil setting and luxuri ous amenities make it a perfect getaway. \u2022 Airelles Ch\u00e2teau de la Messardi\u00e8re (Saint -Tropez): A luxurious hotel set in a historic ch\u00e2teau, offering elegant rooms, beautiful gardens, and stunning views of the Mediterranean. The refined ambiance and top -tier s ervices make it a standout choice for luxury accommodations. \u2022 H\u00f4tel du Cap -Eden -Roc (Antibes): A legendary hotel offering luxurious rooms, a private beach, and a world- class spa. The stunning location and impeccable service make it a favorite among celebrit ies and discerning travelers. \u2022 La R\u00e9serve Ramatuelle (Ramatuelle): A luxurious hotel offering elegant rooms, a spa, and breathtaking views of the Mediterranean. The serene setting and exceptional service make it a top choice for a relaxing retreat. \u2022 Villa La Coste (Le Puy -Sainte -R\u00e9parade): A luxurious hotel set in a vineyard, offering elegant rooms, a spa, and a Michelin -starred restaurant. The artistic ambiance and world -class amenities make it a unique and memorable stay. \u2022 H\u00f4tel Hermitage Monte -Carlo (Monaco ): A luxurious hotel offering opulent rooms, a world -class spa, and several fine dining options. The historic charm and exceptional service make it a premier destination in Monaco. \u2022 Le Byblos (Saint -Tropez): A luxurious hotel offering elegant rooms, a spa, and a vibrant nightlife scene. The glamorous setting and top -notch amenities make it a favorite among the jet set.",
+      "page_number": 12,
+      "confidence_score": 0.479916512966156,
+      "quality_score": 0.0034850000000000003,
+      "final_score": 0.5144893551864624,
+      "content_type": "general",
+      "word_count": 350,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.34850000000000003,
+        "specificity_score": 0.47,
+        "informativeness_score": 0.27,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.1,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 47.9916512966156,
+        "semantic_similarity": 0.479916512966156,
+        "quality_score": 0.0034850000000000003
+      },
+      "adjusted_score": 0.5144893551864624
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "title": "Hotels Budget -Friendly Hotels",
+      "text": "Hotels Budget -Friendly Hotels \u2022 Ibis Budget Nice Californie Lenval (Nice): A budget -friendly hotel offering comfortable rooms and easy access to the beach and city cent er. The modern amenities and convenient location make it a great choice for budget -conscious travelers. \u2022 Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, offering affordable rates and beautiful views of the Mediterranean. The coz y rooms and friendly service make it a pleasant stay. \u2022 Hotel des Arts (Montpellier): A budget -friendly hotel located in the heart of Montpellier, offering comfortable rooms and easy access to the city's attractions. The artistic decor and central location m ake it a popular choice. \u2022 Hotel Le Mistral (Marseille): A budget -friendly hotel offering simple, clean rooms and a convenient location near the Old Port. The friendly staff and affordable rates make it a good option for travelers on a budget. \u2022 Hotel Azur (Ni ce): A budget -friendly hotel offering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget -conscious travelers. \u2022 Hotel de la Paix (Marseille): A budget -friendly hotel offering simple, clean rooms and a convenient location near the Old Port. The friendly staff and affordable rates make it a good option for travelers on a budget. \u2022 Hotel du Palais (Montpellier): A budget -friendly hotel located in the heart of Montpellier, o ffering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice. \u2022 Hotel de la Mer (Nice): A budget -friendly hotel offering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget -conscious travelers. \u2022 Hotel de la Plage (Marseille): A budget -friendly hotel offering simple, clean rooms and a convenient location near the Old Port. The friendly staff and affo rdable rates make it a good option for travelers on a budget. \u2022 Hotel de la Gare (Montpellier): A budget -friendly hotel located in the heart of Montpellier, offering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice.",
+      "page_number": 8,
+      "confidence_score": 0.456654816865921,
+      "quality_score": 0.0033350000000000003,
+      "final_score": 0.5051621767463684,
+      "content_type": "general",
+      "word_count": 376,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.3335,
+        "specificity_score": 0.44999999999999996,
+        "informativeness_score": 0.27,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.0,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 45.6654816865921,
+        "semantic_similarity": 0.456654816865921,
+        "quality_score": 0.0033350000000000003
+      },
+      "adjusted_score": 0.20516217674636844
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "title": "Overview of the Region The South of France, or \"Le",
+      "text": "Overview of the Region The South of France, or \"Le Midi,\" encompasses the regions of Provence -Alpes -C\u00f4te d'Azur, Occitanie, and parts of Nouvelle -Aquitaine. This area is renowned for its diverse landscapes, from the sun -drenched beaches of the French Riviera to the rolling vineyards of Provence and the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and mild winters, making it a year -round destination. The South of France is also famous for its cuisine, wines, and vibrant cultural scene. Travel Tips \u2022 Best Time to Visit: The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. \u2022 Transportation : The region is well -connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns. \u2022 Language : While French is the o\ufb03cial language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience.",
+      "page_number": 2,
+      "confidence_score": 0.4514681100845337,
+      "quality_score": 0.0028000000000000004,
+      "final_score": 0.5030072440338135,
+      "content_type": "general",
+      "word_count": 181,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.28,
+        "specificity_score": 0.3,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.35000000000000003,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Lacks specific details",
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 45.14681100845337,
+        "semantic_similarity": 0.4514681100845337,
+        "quality_score": 0.0028000000000000004
+      },
+      "adjusted_score": -0.0969927559661865
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Under Categories , select Signatures",
+      "text": ". Under Categories , select Signatures . 3. For Identities & Trusted Certificates , select More. 4. Expand Digital IDs on the left, select Roaming ID Accounts , and select Add Account. 5. Type the name and URL for the roaming ID server, and select Next . 6. Type your user name and password, or follow the directions to create an account. Select Next , and then select Finish. Once the roaming ID is added, it can be used for signing or encryption. When you perform a task that uses your roaming ID, you\u2019re automatically logged in to the roaming ID server if your authentication assertion hasn\u2019t expired. PKCS#12 modules and tokens You can have multiple digital IDs that you use for different purposes, particularly if you sign documents in different roles or using different certification methods. Digital IDs are usually password protected. They can be stored on your computer in PKCS #12 file format. Digital IDs can also be stored on a smart card, hardware token, or in the Windows certificate store. Roaming IDs can be stored on a server. Acrobat includes a default signature handler that can access digital IDs from various locations. Register th e digital ID in Acrobat for it to be available for use. Store certificates on directory servers Directory servers are commonly used as centralized repositories of identities within an organization. The server acts as an ideal location to store user certif icates in enterprises that use certificate encryption. Directory servers let you locate certificates from network servers, including Lightweight Directory Access Protocol (LDAP) servers. After you locate a certificate, you can add it to your list of truste d identities so that you don\u2019t have to look it up again. By developing a storage area for trusted certificates, you or a member of your workgroup can facilitate the use of encryption in the workgroup. For more information about directory servers, see the Digital Signature Guide . Import directory server settings (Windows only) You import directory server settings using security import/export methodology or a security settings file. Before, you import settings in a file using import/export methodology, ensure that you trust the file provider before opening it.",
+      "page_number": 27,
+      "confidence_score": 0.5544525384902954,
+      "quality_score": 0.0034750000000000002,
+      "final_score": 0.499744370659276,
+      "content_type": "general",
+      "word_count": 363,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.34750000000000003,
+        "specificity_score": 0.47,
+        "informativeness_score": 0.2,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.30000000000000004,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 55.44525384902954,
+        "semantic_similarity": 0.5544525384902954,
+        "quality_score": 0.0034750000000000002
+      },
+      "adjusted_score": -0.4002556293407239
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Steps to send in bulk 1",
+      "text": "Steps to send in bulk 1. Select the Send in Bulk tool as explained earlier. The Send in bulk file upload page is displayed. 2. Add a file: Upload (by search or drag -and -drop) the primary file that you are using to build your agreement template. The selector on the right of the Select a file button allows you to choose from the source where the file resides. The default is your local system.",
+      "page_number": 9,
+      "confidence_score": 0.5115033388137817,
+      "quality_score": 0.00205,
+      "final_score": 0.4738562039465653,
+      "content_type": "general",
+      "word_count": 75,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.20500000000000002,
+        "specificity_score": 0.33999999999999997,
+        "informativeness_score": 0.0,
+        "relevance_score": 0.2,
+        "readability_score": 0.7,
+        "actionability_score": 0.0,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Lacks specific details",
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 51.150333881378174,
+        "semantic_similarity": 0.5115033388137817,
+        "quality_score": 0.00205
+      },
+      "adjusted_score": -0.7261437960534347
+    }
+  ],
+  "computation_type": "section_selection",
+  "timestamp": "2025-07-28T13:14:34.342949"
+}

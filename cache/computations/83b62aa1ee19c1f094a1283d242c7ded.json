@@ -1,0 +1,216 @@
+{
+  "result": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Fill in PDF Forms Is the form fillable",
+      "text": "Fill in PDF Forms Is the form fillable? Not all forms are fillable. Sometimes form creators don\u2019t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. These non-interactive forms are called flat forms. Fill in interactive forms An interactive form contains fields that you can select or fill in. 1. If necessary, select either the Hand Tool or the Select Tool from the context menu of the page (right-click on the page to open the context menu). The pointer changes to a different icon as you move it over a field. For example, the Hand tool changes to an I -beam when you can type text into the form field. Some text fields are dynamic, meaning that they automatically resize to accommodate the amount of data you enter and can span across pages.",
+      "page_number": 8,
+      "confidence_score": 0.5542293172617769,
+      "quality_score": 0.002825,
+      "final_score": 0.5881154769047108,
+      "content_type": "general",
+      "word_count": 152,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.2825,
+        "specificity_score": 0.37,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Lacks specific details",
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 55.422931726177694,
+        "semantic_similarity": 0.5542293172617769,
+        "quality_score": 0.002825
+      },
+      "adjusted_score": 0.5881154769047108
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Types of PDF forms",
+      "text": "Types of PDF forms \u2022 Interactive forms : These contain fields that you can select and fill in. \u2022 Flat forms : These do not have interactive fields. It could be a paper form or PDF that hasn\u2019t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. You can complete the forms by entering information and adding your signatures. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage. Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign . It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following topics. To fill text fields: 1. From the left panel, select Fill in form fields , and then select the field where you want to add text. It displays a text field along with a toolbar. 2. Select the text field again and enter your text. 3. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. 4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. 5. To change the text size, select A or A as required.",
+      "page_number": 2,
+      "confidence_score": 0.5529514812000642,
+      "quality_score": 0.003125,
+      "final_score": 0.5506493424800256,
+      "content_type": "general",
+      "word_count": 297,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.3125,
+        "specificity_score": 0.45,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.30000000000000004,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 55.295148120006424,
+        "semantic_similarity": 0.5529514812000642,
+        "quality_score": 0.003125
+      },
+      "adjusted_score": 0.2506493424800256
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Create a PDF as an email attachment 1",
+      "text": "Create a PDF as an email attachment 1. Open the file in the application used to create it. 2. Choose Adobe PDF > Convert To Adobe PDF And Email . For Microsoft Office applications, such as Word, Excel, and PowerPoint, click the Create And Share button on the Acrobat ribbon. When the conversion has finished, the PDF is opened in Adobe Acrobat. Click the Send File By Email icon ( ) in Acrobat. For more information, see Share a PDF as an email attachment . Attach a file as PDF (Outlook) 1. In the Outlook email Message window, click Acrobat > Attach as Adobe PDF button. 2. Select a file to attach, and click Open. Convert files to a secured PDF and attach it to an email message (Outlook) 1. In the Outlook email Message window, click the Attach As Secured Adobe PDF button . Note: The Attach As Secured Adobe PDF button appears only after you\u2019ve configured an Adobe Experience Manager Document Security using the All tools > Protect a PDF > Set Security Properties > Security Method. 2. Click Browse , select a file to convert, and click Open. 3. Specify the users that can open the PDF, and then click OK: \u2022 To specify only users that receive the PDF, select Restrict Access Only To People In This Message\u2019s To:, Cc:, And Bcc : List. In this case, the PDF isn\u2019t secured until you send the email message. \u2022 To specify only users that are specified by a sec urity policy, select Restrict Access By Applying The Following Security Policy , and then select a security policy in the list. In this case, the PDF is secured before it is attached to the email message.",
+      "page_number": 18,
+      "confidence_score": 0.520252699755143,
+      "quality_score": 0.0034750000000000002,
+      "final_score": 0.5436223299020572,
+      "content_type": "general",
+      "word_count": 288,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.34750000000000003,
+        "specificity_score": 0.59,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.30000000000000004,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 52.0252699755143,
+        "semantic_similarity": 0.520252699755143,
+        "quality_score": 0.0034750000000000002
+      },
+      "adjusted_score": -0.05637767009794281
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Web pages Method 1 : From the top tools bar, select Create",
+      "text": "Web pages Method 1 : From the top tools bar, select Create . Then, select Web page as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF fr om web page and follow through the workflow. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click on the file and then select Convert to Adobe PDF. Method 4: From the top -right corner of the webpage, selec t > Print > Adobe PDF . Content copied on the clipboard Method 1 : From the top tools bar, select Create . Then, select Clipboard as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from clipboard and follow through the workflow. AutoCAD files (Acrobat Pro for Windows only) Method 1 : From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflo w. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click the file and select Convert to Adobe PDF . Method 4 : Within AutoCAD, go to Print > Adobe PDF .",
+      "page_number": 4,
+      "confidence_score": 0.5032512787636538,
+      "quality_score": 0.0031000000000000003,
+      "final_score": 0.5307655115054615,
+      "content_type": "general",
+      "word_count": 236,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.31000000000000005,
+        "specificity_score": 0.48,
+        "informativeness_score": 0.1,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.2,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 50.325127876365386,
+        "semantic_similarity": 0.5032512787636538,
+        "quality_score": 0.0031000000000000003
+      },
+      "adjusted_score": -0.36923448849453844
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Under Categories , select Signatures",
+      "text": ". Under Categories , select Signatures . 3. For Identities & Trusted Certificates , select More. 4. Expand Digital IDs on the left, select Roaming ID Accounts , and select Add Account. 5. Type the name and URL for the roaming ID server, and select Next . 6. Type your user name and password, or follow the directions to create an account. Select Next , and then select Finish. Once the roaming ID is added, it can be used for signing or encryption. When you perform a task that uses your roaming ID, you\u2019re automatically logged in to the roaming ID server if your authentication assertion hasn\u2019t expired. PKCS#12 modules and tokens You can have multiple digital IDs that you use for different purposes, particularly if you sign documents in different roles or using different certification methods. Digital IDs are usually password protected. They can be stored on your computer in PKCS #12 file format. Digital IDs can also be stored on a smart card, hardware token, or in the Windows certificate store. Roaming IDs can be stored on a server. Acrobat includes a default signature handler that can access digital IDs from various locations. Register th e digital ID in Acrobat for it to be available for use. Store certificates on directory servers Directory servers are commonly used as centralized repositories of identities within an organization. The server acts as an ideal location to store user certif icates in enterprises that use certificate encryption. Directory servers let you locate certificates from network servers, including Lightweight Directory Access Protocol (LDAP) servers. After you locate a certificate, you can add it to your list of truste d identities so that you don\u2019t have to look it up again. By developing a storage area for trusted certificates, you or a member of your workgroup can facilitate the use of encryption in the workgroup. For more information about directory servers, see the Digital Signature Guide . Import directory server settings (Windows only) You import directory server settings using security import/export methodology or a security settings file. Before, you import settings in a file using import/export methodology, ensure that you trust the file provider before opening it.",
+      "page_number": 27,
+      "confidence_score": 0.5338408518405379,
+      "quality_score": 0.0034750000000000002,
+      "final_score": 0.5150575907362152,
+      "content_type": "general",
+      "word_count": 363,
+      "section_index": 0,
+      "quality_metrics": {
+        "overall_quality_score": 0.34750000000000003,
+        "specificity_score": 0.47,
+        "informativeness_score": 0.2,
+        "relevance_score": 0.2,
+        "readability_score": 0.8999999999999999,
+        "actionability_score": 0.30000000000000004,
+        "quality_breakdown": {
+          "strengths": [
+            "Basic content quality"
+          ],
+          "weaknesses": [
+            "Limited informative value",
+            "Low relevance to job context",
+            "Few actionable recommendations"
+          ],
+          "overall_assessment": "Below average quality content"
+        },
+        "improvement_suggestions": [
+          "Add more specific details like addresses, phone numbers, or hours",
+          "Include more practical information and descriptive details",
+          "Add more actionable recommendations and specific suggestions"
+        ]
+      },
+      "confidence_metrics": {
+        "overall_confidence": 53.38408518405379,
+        "semantic_similarity": 0.5338408518405379,
+        "quality_score": 0.0034750000000000002
+      },
+      "adjusted_score": -0.6849424092637848
+    }
+  ],
+  "computation_type": "section_selection",
+  "timestamp": "2025-07-28T13:17:36.539657"
+}

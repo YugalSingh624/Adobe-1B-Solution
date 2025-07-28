@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Lunch Ideas.pdf",
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "Multi-Domain Consultant",
+        "job_to_be_done": "Support diverse client needs across food service industry documentation, travel marketing materials, and digital workflow optimization using various tools and resources.",
+        "processing_timestamp": "2025-07-28T13:14:36.431870"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Luxurious Hotels",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Hotels Budget -Friendly Hotels",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Overview of the Region The South of France",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Under Categories, select Signatures",
+            "importance_rank": 4,
+            "page_number": 27
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Steps to send in bulk 1",
+            "importance_rank": 5,
+            "page_number": 9
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Luxurious Hotels Grand - Hôtel du Cap - Ferrat, A Four Seasons Hotel (Saint - Jean - Cap - Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, offering elegant rooms, a spa, and a private beach. The exclusive sett ing and world - class amenities make it a top choice for luxury travelers. Hôtel de Paris Monte - Carlo (Monaco): A luxurious hotel located in the heart of Monaco, offering opulent rooms, a world - class spa, and several Michelin - starred restaurants. The histori c grandeur and exceptional service make it a premier destination. Château Saint - Martin & Spa (Vence): A luxurious hotel set in a historic château, offering elegant rooms, a Michelin - starred restaurant, and a world - class spa. The tranquil setting and luxuri ous amenities make it a perfect getaway.",
+            "page_number": 12
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Hotels Budget - Friendly Hotels Ibis Budget Nice Californie Lenval (Nice): A budget - friendly hotel offering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget - conscious travelers. Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, offering affordable rates and beautiful views of the Mediterranean. The cozy rooms and friendly service make it a pleasant stay. Hotel des Arts (Montpellier): A budget - friendly hotel located in the heart of Montpellier, offering comfortable rooms and easy access to the city's attractions. The artistic decor and central location m ake it a popular choice.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Overview of the Region The South of France, or \"Le Midi,",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Under Categories, select Signatures. 3. For Identities & Trusted Certificates, select More. 4. Expand Digital IDs on the left, select Roaming ID Accounts, and select Add Account. 5. Type the name and URL for the roaming ID server, and select Next. 6. Type your user name and password, or follow the directions to create an account. PKCS#12 modules and tokens You can have multiple digital IDs that you use for different purposes, particularly if you sign documents in different roles or using different certification methods.",
+            "page_number": 27
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Steps to send in bulk 1. Select the Send in Bulk tool as explained earlier. The Send in bulk file upload page is displayed. 2. Add a file: Upload (by search or drag - and - drop) the primary file that you are using to build your agreement template. The selector on the right of the Select a file button allows you to choose from the source where the file resides. The default is your local system.",
+            "page_number": 9
+        }
+    ]
+}

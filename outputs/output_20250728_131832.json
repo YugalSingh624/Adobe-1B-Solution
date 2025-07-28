@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Lunch Ideas.pdf",
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "Executive Chef",
+        "job_to_be_done": "Create diverse seasonal menu offerings for a high-end restaurant featuring breakfast, lunch, and dinner options with creative side dishes and regional specialties.",
+        "processing_timestamp": "2025-07-28T13:18:32.457432"
+    },
+    "extracted_sections": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Smoothie Bowl",
+            "importance_rank": 1,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Beef Bourguignon",
+            "importance_rank": 2,
+            "page_number": 7
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Veggie Sushi Rolls",
+            "importance_rank": 3,
+            "page_number": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "Mushroom Risotto",
+            "importance_rank": 4,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Luxurious Hotels",
+            "importance_rank": 5,
+            "page_number": 12
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "1/2 teaspoon ground cinnamon 1 tablespoon butter Instructions: In a shallow dish, whisk togethereggs, milk, vanilla extract, and cinnamon. Cook the bread slices until golden brown on both sides. Serve with syrup and powdere d sugar. Smoothie Bowl Ingredients: 1 banana 1/2 cup frozen berries 1/2 cup Greek yogurt 1/4 cup milk Toppings: granola, fresh fruit, nuts, seeds Instructions: In a blender, combine banana, frozen berries, Greek yogurt, and milk. Pour into a bowl and top with granola, fresh fruit, nuts, and seeds. Avocado Toast Ingredients: 2 slices of bread 1 ripe avocado Salt and pepper to taste Optional toppings: cherry tomatoes, red pepper flakes, poached egg Instructions: Toast the bread s lices.",
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "8 ounces rice noodles 1/2 pound shrimp or chicken 2 eggs 1 cup bean sprouts 1/4 cup peanuts, chopped 2 tablespoons fish sauce 2 tablespoons tamarind paste 1 tablespoon sugar 1 tablespoon lime juice 1/4 cup green onions, chopped 2 tablespoons vegetable oil Instructions: Soak rice noodles in warm water until softened, then drain. Sauté shrimp or chicken in vegetable oil until cooked, then set aside. Scramble eggs in the same pan. Garnish with chopped peanuts and serve. Beef Bourguignon Ingredients: 2 pounds beef chuck, cut into cubes 1 small onion, diced 2 cloves garlic, minced 1 cup red wine 2 cups beef broth 1 cup mushrooms, sliced 1 cup carrots, sliced 1 cup pearl onions 2 tablespoons tomato paste 2 tablespoons flour 2 tablespoons butter 1 teaspoon thyme 1 bay leaf Salt and pepper to taste Instructions: Preheat oven to 350°F (175°C). In a large pot, melt butter over medium heat.",
+            "page_number": 7
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "1/4 cup red onion, finely chopped 2 tablespoons olive oil 1 tablespoon lemon juice Salt and pepper to taste Instructions: In a bowl, combine the tuna, avocado, tomatoes, and red onion. Drizzle with olive oil and lemon juice. Season with salt and pepper, then toss to combine. Veggie Sushi Rolls Ingredients: 1 cup cooked sushi rice 1/2 cucumber, julienned 1/2 avocado, sliced 1/4 cup carrot, julienned 2 sheets nori (seaweed) Soy sauce for dipping Instructions: Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1 - inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice.",
+            "page_number": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "Chopped parsley for garnish Cooked couscous for serving Instructions: In a large pot, heat olive oil over medium heat. Brown chicken thighs on all sides, then set aside. Sauté onion and garlic until softened. Garnish with parsley and serve over couscous. Mushroom Risotto Ingredients: 1 cup Arborio rice 4 cups chicken or vegetable broth 1 small onion, diced 2 cloves garlic, minced 1 cup mushrooms, sliced 1/2 cup white wine 1/2 cup grated Parmesan cheese 2 tablespoons butter 2 tablespoons olive oil Salt and pepper to taste Chopped parsley for garnish Instructions: Heat broth in a pot and keep warm. In a large skillet, heat olive oil and 1 tablespoon butter over medium heat.",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Luxurious Hotels Grand - Hôtel du Cap - Ferrat, A Four Seasons Hotel (Saint - Jean - Cap - Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, offering elegant rooms, a spa, and a private beach. The exclusive sett ing and world - class amenities make it a top choice for luxury travelers. Hôtel de Paris Monte - Carlo (Monaco): A luxurious hotel located in the heart of Monaco, offering opulent rooms, a world - class spa, and several Michelin - starred restaurants. The histori c grandeur and exceptional service make it a premier destination. Château Saint - Martin & Spa (Vence): A luxurious hotel set in a historic château, offering elegant rooms, a Michelin - starred restaurant, and a world - class spa. The tranquil setting and luxuri ous amenities make it a perfect getaway.",
+            "page_number": 12
+        }
+    ]
+}

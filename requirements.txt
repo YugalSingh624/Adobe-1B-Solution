@@ -1,0 +1,28 @@
+# Core dependencies for Advanced Document Section Selection System - CPU ONLY
+# Explicitly ensures NO CUDA packages are installed (submission requirement)
+
+# Document processing (install first from main PyPI)
+PyPDF2==3.0.1
+numpy==2.3.2
+scikit-learn==1.7.1
+psutil==7.0.0
+requests
+
+# CPU-ONLY PyTorch installation (CRITICAL: No CUDA support)
+# Using extra index to get CPU-only versions, let pip resolve compatible versions
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
+
+# Machine learning and embeddings (will use CPU-only PyTorch)
+sentence-transformers==5.0.0
+
+# HTTP requests (for model downloads)
+requests==2.32.4
+
+# Note: CPU-only installation ensures:
+# - No CUDA packages downloaded
+# - Smaller Docker image size
+# - Complies with CPU-only submission requirements
+# - PyTorch will run on CPU only

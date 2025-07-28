@@ -1,0 +1,21 @@
+{
+  "persona": "Multi-Domain Consultant",
+  "job": "Support diverse client needs across food service industry documentation, travel marketing materials, and digital workflow optimization using various tools and resources.",
+  "docs_folder": "docs",
+  "top_k": 5,
+  "max_per_doc": 2,
+  "max_sentences": 6,
+  "min_sentences": 3,
+  "context_window": 2,
+  "diversity_weight": 0.3,
+  "output_dir": "outputs",
+  "save_debug_info": true,
+  "model_settings": {
+    "cache_embeddings": true,
+    "model_path": "models/bge-small-en-v1.5"
+  },
+  "processing_settings": {
+    "min_section_length": 50,
+    "max_section_length": 3000
+  }
+}

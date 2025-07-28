@@ -1,0 +1,3 @@
+# Cache Directory
+This directory is used for storing embeddings and computation cache to improve performance.
+It will be automatically populated when the application runs.
